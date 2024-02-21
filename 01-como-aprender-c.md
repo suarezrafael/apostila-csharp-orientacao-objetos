@@ -64,12 +64,3 @@ Se o que você está buscando são livros de apoio, sugerimos conhecer a editora
 Código:
 
 https://www.casadocodigo.com.br/
-
-A Caelum oferece outro curso de C#/.NET, o FN-23, que traz a aplicação do C# na Web:
-
-https://www.caelum.com.br/
-
-Há também cursos online que vão ajudá-lo a ir além, com muita
-interação com os instrutores:
-
-https://www.alura.com.br/
